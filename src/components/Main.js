@@ -28,7 +28,7 @@ class Main extends Component {
               </td>
               <td>
                 <a
-                  href={`http://localhost:3000?address=${this.props.contractAddress}`}
+                  href={`https://lively-block-9148.on.fleek.co/s=${this.props.contractAddress}`}
                   target='_blank'
                   rel='noopener noreferrer'
                   className='btn btn-primary'
